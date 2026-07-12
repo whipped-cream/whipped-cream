@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whipped-cream&label=Profile%20views&color=62a0ea&style=flat" alt="whipped-cream" /> </p>
 
-My code highlights are 
-- [Traffic](https://github.com/whipped-cream/Traffic)
+My code highlights are:
+- [PyGnomeSearchClient](https://github.com/whipped-cream/PyGnomeSearchClient)
+- [pixel_planets_rs](https://github.com/whipped-cream/pixel_planets_rs)
 - [send_to_phone](https://github.com/whipped-cream/send_to_phone)
-- I'm really proud of the code I wrote for the module EMK310 but I probably can't publish that :-]
+- Look at the pinned repos for more up to date code highlights
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
